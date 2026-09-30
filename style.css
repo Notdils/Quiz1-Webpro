@@ -22,3 +22,10 @@
     color: #000;
     font-family: "Itim", cursive;
 }
+img {
+  width: 100vw;
+  height: 100vh; /* or a specific height like 500px */
+  object-fit: cover;
+  object-position: center; /* adjusts which part of the photo is cropped */
+  display: block;
+}
