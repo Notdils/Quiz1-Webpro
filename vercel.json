@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/quiz1/profile.html",
+      "destination": "/quiz1/index.html",
       "permanent": true
     }
   ]
